@@ -1,0 +1,14 @@
+FF lazy_search: Can not found!
+LAMA-2011: Can not found!
+
+BFWS: 	3-2 painted, 6.2s
+	1-5 painted, 5.7s
+
+BFWS planners are more prospective!
+
+
+
+Other knowledge recorded here temporary:
+1. Symbolic planner failed in 2018 (EVMDDs)
+2. There are other attempt to utilize novelty as an heuristic, but not outstanding
+3. There are also others technique failed.
